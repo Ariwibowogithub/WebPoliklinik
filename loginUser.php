@@ -58,7 +58,9 @@
                         </div>
                     </form>
 
-                    <p class="text-center mt-3 mb-0">Belum punya akun? <a href="register.php">Registrasi di sini</a></p>
+                    <p class="text-center mt-3 mb-0">Belum punya akun? <a href="register.php">Registrasi di sini</a>
+                        <br> <a href="index.php">Kembali ke Beranda</a>
+                    </p>
                 </div>
             </div>
         </div>

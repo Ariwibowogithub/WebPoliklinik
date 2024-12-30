@@ -56,6 +56,7 @@
                                 Login
                             </button>
                         </div>
+                        <a href="index.php">Kembali ke Beranda</a>
                     </form>
                 </div>
             </div>
