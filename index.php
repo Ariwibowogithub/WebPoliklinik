@@ -24,15 +24,13 @@
     <!-- Banner Section -->
     <section class="banner-section py-5">
         <div class="container text-center text-white">
-            <h1 class="display-4 font-weight-bold banner-title">
+            <h1 class="display-4 font-black banner-title ">
                 Sistem Janji Temu Online Untuk Pasien - Dokter
             </h1>
             <h2 class="lead banner-subtitle">
                 Poliklinik Sehat, Layanan Tepat, Kesehatan Anda Terjaga!
             </h2>
-            <p class="font-italic banner-note">
-                Bimbingan Karir 2024 Bidang Website
-            </p>
+
         </div>
     </section>
 
