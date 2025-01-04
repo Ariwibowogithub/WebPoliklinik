@@ -1,8 +1,8 @@
 <?php
-    session_start();
+session_start();
 
-    //menghapus semua session
-    session_destroy();
-    //pindah halaman login
-    header("location:../../index.php");
+//menghapus semua session
+session_destroy();
+//pindah halaman login
+header("location:../../index.php");
 ?>
